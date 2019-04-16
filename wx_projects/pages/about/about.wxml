@@ -1,0 +1,7 @@
+<view class="container"> 
+<image src="/image/mayu.jpg"></image>
+<text class="info">Hello World</text>
+<text>电影周周看</text>
+<text>我每周推荐一部电影</text>
+<text>我的微博</text>
+</view>
